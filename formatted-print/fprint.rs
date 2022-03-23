@@ -1,4 +1,12 @@
 /*
+ * Topics:
+ * - std::fmt
+ * - macros
+ * - struct
+ * - traits
+ */
+
+/*
  * 
  *  format!: write formatted text to String
  *  print!: same as format! but the text is printed to the console (io::stdout).
